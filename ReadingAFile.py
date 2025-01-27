@@ -1,6 +1,8 @@
 import os
 print(os.getcwd())
 
+# 1/13
+
 # Computers use file systems to store and retrieve data. Each file is an individual container of related information. If
 # you've ever saved a document, downloaded a song, or even sent an email you've created a file on some computer
 # somewhere.
